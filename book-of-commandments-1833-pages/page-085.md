@@ -1,0 +1,21 @@
+<!-- PDF page 085 -->
+<!-- Faint page, washed out and worn in many places especially from verse 16 downward; the verse numbers of verses 16 to 22 are faint. Show-through is not transcribed. No signature mark seen. -->
+**Header:** 82
+
+<!-- cont --> er to persons. <!-- uncertain: the "s" in "persons" is worn --> And I have made the earth rich, <!-- uncertain: the "r" of "rich" is faint --> and behold it is my footstool: <!-- uncertain: the "o" in "footstool" is faint --> wherefore, again I will stand upon it:
+
+15 And I hold forth and deign to give unto you greater riches, even a land of promise; a land flowing with milk and honey, upon which there shall be no curse when the Lord cometh, and I will give it unto you for the land of your inheritance, if you seek it with all your hearts:
+
+16 <!-- uncertain: the verse number is faint, read as 16 --> And this <!-- uncertain: the "i" of "this" is faint --> shall be my covenant with you, ye shall have it <!-- uncertain: "have it" is faint --> for the land of your inheritance, and for the <!-- uncertain: "the" is faint, the "h" is worn --> inheritance of your children forever, while the earth shall stand, and ye shall possess it again in eternity, <!-- uncertain: "eternity" is faint --> no more to pass away:
+
+17 <!-- uncertain: the verse number is faint, read as 17 --> But verily <!-- uncertain: the "v" of "verily" is faint --> I say unto <!-- uncertain: "unto" is faint --> you, that in time ye shall <!-- uncertain: "shall" is faint at the line end --> have <!-- uncertain: "have" is faint at the line start --> no king <!-- uncertain: "king" is faint --> nor ruler, <!-- uncertain: "nor ruler" is faint --> for I will be your King and <!-- uncertain: "and" is faint --> watch <!-- uncertain: "watch" is faint at the line start --> over you.
+
+18 <!-- uncertain: the verse number is faint, read as 18 --> Wherefore, hear my voice and follow me, and you shall <!-- uncertain: "shall" is faint --> be a free people, and ye shall have no law <!-- uncertain: "law" at the line start is washed out, "l" and "w" visible; a faint dash-like mark follows, and the "b" of "but" is partly washed out (reads "out" with a partial b); the gap between them is too narrow for another word -->but my laws, when I come, for I am your Lawg[illegible]er, <!-- uncertain: "Law-" ends the line; the next line begins "g" then washed-out letters then "er," --> and what can stay <!-- uncertain: "stay" is faint --> my hand.
+
+19 <!-- uncertain: the verse number is faint, read as 19 --> But verily <!-- uncertain: "verily" is faint --> I say unto you, teach one another according to the office <!-- uncertain: the second "f" or "ff" in "office" is faint --> wherewith <!-- uncertain: the "i" in "wherewith" is faint --> I have appointed you, <!-- uncertain: "you," is faint at the line start --> and let every man esteem his brother as himself, <!-- uncertain: "self" is faint at the line start --> and practice <!-- uncertain: the "c" in "practice" is faint --> virtue and holiness before me.
+
+20 <!-- uncertain: the verse number is faint, read as 20 --> And again I say unto you, let every man esteem <!-- uncertain: "teem" at the line start is faint --> his brother as himself:
+
+21 <!-- uncertain: the verse number is faint, read as 21 --> For what man among <!-- uncertain: "among" is faint --> you, having twelve <!-- uncertain: the last letter of "twelve" is faint --> sons, and is no respecter to <!-- uncertain: "to" is faint --> them, and they serve him <!-- uncertain: "him" is faint --> obediently, <!-- uncertain: the start of "diently" is faint --> and he saith unto the one, be thou clothed <!-- uncertain: the first letter of "clothed" is faint --> in robes <!-- uncertain: "robes" is faint, a middle letter worn --> and sit thou here; and to the other, be thou clothed in rags <!-- uncertain: the first letter of "rags" is partly washed out --> and sit thou there, and looketh upon his <!-- uncertain: "his" is faint --> sons and saith I am just.
+
+22 <!-- uncertain: the second figure of the verse number is faint, read as 22 --> Behold, <!-- uncertain: the "e" of "Behold" is faint --> this I have given unto you a parable, and it is even <!-- uncertain: "even" is faint --> as I am, I say unto you, be one; <!-- uncertain: "unto" is blotted and "one" has a worn middle letter -->

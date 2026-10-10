@@ -1,0 +1,6 @@
+work/
+__pycache__/
+*.pdf
+.venv/
+logs/*
+logs/**/*.log

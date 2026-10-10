@@ -1,0 +1,15 @@
+<!-- PDF page 014 -->
+<!-- Faint page; the lower half (from verse 6 on) is very faint and blotchy, with worn right-hand line ends and some show-through. Words read from partial letters are flagged. -->
+**Header:** 11
+
+<!-- cont --> mony of three of my servants shall go forth with my <!-- uncertain: "my" blotted --> words unto this generation; yea, three shall know of a surety that these things are true, for I will give them power, that they may behold and view <!-- uncertain: "view" first letter faint --> these things as <!-- uncertain: "as" first letter faint --> they are, and to none else will I grant this power, to receive this same testimony among this generation. And the testimony of three witnesses <!-- uncertain: middle of "witnesses" faint --> will I send forth and my word, and behold, whosoever believeth in <!-- uncertain: "in" faint --> my <!-- uncertain: first letter of "my" faint --> word, them will I visit with the manifestation of my Spirit, and they shall be born of me, and their testimony shall also go forth.
+
+5 And thus, if the people of this generation harden not their hearts, I will work a reformation among them, and I will put down all lyings, and deceivings, and priestcrafts, and envyings, and strifes, and idolatries, and sorceries, and all manner of iniquities, and I will establish my church, like unto the church which was taught by my disciples in <!-- uncertain: "in" faint --> the days of old.
+
+6 And now if this generation do harden their <!-- uncertain: "their" worn at line end --> hearts against my word, behold I will deliver <!-- uncertain: "deliver" faint, a letter or two worn --> them up unto satan, for he reigneth and hath much <!-- uncertain: "much" faint --> power at this time, for he hath got great hold upon the <!-- uncertain: "hold upon the" faint --> hearts of the people of this generation: and not far from the iniquities of Sodom <!-- uncertain: "S" partly faint --> and Gomorrah, <!-- uncertain: "G" partly faint --> do they come at this time: and behold the sword <!-- uncertain: "sword" faint --> of justice hangeth over their heads, and if they persist in the hardness <!-- uncertain: word is faint; may read "hardiness" (extra i before "ness"); line is worn --> of their hearts, the time cometh <!-- uncertain: final letters faint --> that <!-- uncertain: "that" very faint --> it must fall upon them. Behold <!-- uncertain: "Behold" faint --> I tell you these things even as I also told the people of the destruction of Jerusalem, and my word shall be verified <!-- uncertain: "verified" very faint; first letters worn --> at this time as it hath hitherto been verified. <!-- uncertain: final mark very faint, read as a period -->
+
+7 And now I <!-- uncertain: "I" faint --> command my servant Joseph <!-- uncertain: first letter faint --> to repent, and walk more uprightly before me, <!-- uncertain: "me" faint --> and yield to the <!-- uncertain: "the" faint --> persuasions of men no more; and that he [illegible] <!-- uncertain: last word of the page's last line is washed out; one short word --> 
+
+---
+
+Footer: A6

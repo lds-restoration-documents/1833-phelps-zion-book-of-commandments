@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 tools/check_structure.py:*)",
+      "Bash(python3 tools/compile_markdown.py:*)",
+      "Bash(python3 tools/make_plaintext.py:*)",
+      "Bash(python3 tools/make_sparse.py:*)",
+      "Bash(~/.venvs/lds-transcribe/bin/python tools/render_pages.py:*)"
+    ]
+  }
+}

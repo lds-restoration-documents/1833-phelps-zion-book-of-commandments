@@ -1,0 +1,33 @@
+<!-- PDF page 074 -->
+<!-- Very faint page. The whole text block is washed out and stained (a large damp stain across the upper third and the left side, grey mottling below). The heading of chapter XXXIV is readable; the verses are readable only in part, with right-hand line ends and many words washed out from verse 2 down, and the lower lines (verses 9 to 11) are the weakest. Words are written from the letters that can be seen and everything else is marked; nothing is completed from memory. No rule is visible above the chapter heading. The italic chapter heading has no verse number "1" printed before it. A signature mark is printed faintly at the foot. -->
+**Header:** [illegible] <!-- uncertain: zoom at scale 6: the folio is one blurred blot about two figures wide inside a damp stain, with no separate figures readable; 71 is what the sequence (70 on the previous page) would give, but it is not read from the scan -->
+
+## CHAPTER XXXIV.
+
+<!-- no verse number is printed before this italic heading -->*A Revelation to Thomas, given in Fayette, <!-- uncertain: "Fayette" is faint, the letters after "Fay" are worn --> New-York, September,* <!-- uncertain: "September," is faint --> 1830. <!-- uncertain: the date is faint, read as 1830; zoom: the digits and the final period are roman (upright), only the words and the comma before the date are italic -->
+
+<!-- the next paragraph opens with a large drop-capital T and no verse number -->THOMAS, my s[illegible]n, <!-- uncertain: "THOMAS, my s" is faint, the vowel of "son" is washed out and only the "n" shows after it --> blessed are you because of your faith in my work. <!-- uncertain: "blessed are you because of" is faint and "your faith in my work." is very faint, the last word reads from partial letters -->
+
+2 Behold you ha[illegible]e [illegible] many afflictions because <!-- uncertain: in line 1, "Behold you" and "many afflictions because" are faint; between "ha" and "e" one letter is washed out, and the word after it is washed out with only a few fragments (an "e", "pa" and one more letter) visible --> of your <!-- uncertain: "your" is faint, the "y" and "o" worn --> family: nevertheless <!-- uncertain: "nevertheless" is faint, the middle letters worn --> I will bless you, and <!-- uncertain: "I will bless you, and" is faint --> your <!-- uncertain: "your" is faint --> family:
+
+3 Yea, your <!-- uncertain: "your" is faint, the "y" and "o" worn --> little <!-- uncertain: "little" is faint, the first "t" worn --> ones, and the day <!-- uncertain: "day" is faint --> cometh that they will believe and know the truth <!-- uncertain: "truth" is very faint --> and be one with <!-- uncertain: "with" is faint --> you in my church. <!-- uncertain: "you in my church." is faint, partly washed out -->
+
+4 Lift up your heart and <!-- uncertain: "and" is washed out except its first and last letters --> rejoice for the hour of your mission is come; and your t[illegible]es <!-- uncertain: the word after "your" is washed out between its first letters and "es" --> shall be loosed; <!-- uncertain: the line end "loos-" and "ed;" are faint --> and you shall declare <!-- uncertain: "declare" is faint, the "e" worn --> glad tidings of great joy <!-- uncertain: "tidings of great joy" is faint --> unto this generation. <!-- uncertain: "generation." is faint, middle letters worn -->
+
+5 You shall declare <!-- uncertain: "You shall declare" is faint, only slight space between "You" and "shall" --> the things which have been <!-- uncertain: "been" is clipped at the line end --> revealed to my servant Joseph. <!-- uncertain: "servant Joseph." is faint -->
+
+6 You shall begin to preach from this time forth <!-- uncertain: "forth" is faint, the "r" worn, and a stray stroke follows it at the line end --> yea, <!-- uncertain: the mark between "forth" and "yea" is not readable, a semicolon is possible --> to reap in the field which is white already <!-- uncertain: "already" is faint, the middle letters worn --> to be burned:
+
+7 Therefore thrust in your sickle with all your <!-- uncertain: "your" at the line end is faint, the "y" worn --> soul; and your sins are forgiven <!-- uncertain: "forgiven" is faint, the "g" worn --> you; and you shall be laden with sheaves upon your <!-- uncertain: "your" is faint, the last letter worn --> back, <!-- uncertain: "back," is faint --> for the laborer <!-- uncertain: the end of line 3 "for the la-" is washed out, only a faint "la" and a hyphen are seen; the word is closed up with "borer" from line 4 --> is worthy of his hire. <!-- uncertain: "his hire." is faint -->
+
+8 Wherefore your family <!-- uncertain: "family" is faint, the "m" worn --> shall live. <!-- uncertain: "shall live." is very faint -->
+
+9 Behold, <!-- uncertain: the "e" of "Behold," is worn --> verily I say unto you, go from thence <!-- uncertain: "unto you" and "thence" are faint, read from partial letters --> only <!-- uncertain: line 1 ends "on-" and line 2 begins "ly", both faint --> for a little time, <!-- uncertain: "little time," is faint --> and declare my wor[illegible] <!-- uncertain: the last letter of this word is not readable, d or k --> and I <!-- uncertain: "and I" is faint at the line end --> will prepare a place for them; yea, I [illegible] [illegible] [illegible] <!-- uncertain: after "yea, I" the rest of line 3 is washed out, about twelve letters in three short words not readable --> hearts of the people and they will <!-- uncertain: "hearts of the people and they will" is faint, the "h" of "hearts" worn --> [illegible] [illegible] <!-- uncertain: the end of line 4 is washed out, two words not readable -->
+
+10 And I will establish a church by your <!-- uncertain: "church by your" is faint and worn, read from partial letters --> hand, <!-- uncertain: "hand," is faint at the line end --> and you shall strengthen them and prepare them <!-- uncertain: "and prepare them" is faint, with an unreadable trace after "them" --> against the time when they shall be [illegible] <!-- uncertain: "against" is faint; the last word of the line is washed out, one word of about eight or nine letters not readable -->
+
+11 Be patient in afflictions, and in sufferings, <!-- uncertain: "sufferings," is faint, the middle letters worn --> revile <!-- uncertain: line 1 ends "re-" very faint and line 2 begins "vile"; the pieces are joined --> not <!-- uncertain: "not" is faint, the "o" worn --> against <!-- uncertain: "against" is faint, the "g" worn --> those <!-- uncertain: the "s" of "those" is worn --> that revile.
+
+---
+
+Footer: c4 <!-- uncertain: signature mark at the foot, centred, very faint; read as "c4" -->
