@@ -18,7 +18,7 @@ rebuild the combined files. The plan is in `~/.claude/plans/this-is-a-new-silly-
 ## Files
 
 - `book-of-commandments-1833-pages/page-NNN.md`: **source of truth**, one file per PDF page, named by PDF page number (3 digits).
-- Derived (never hand-edit; rebuild after any page edit): `book-of-commandments-1833.md`, `.txt`, `-sparse.txt`, `printer-typos.md` (`python3 tools/make_typo_catalog.py`, run after the three compile scripts).
+- Derived (never hand-edit; rebuild after any page edit): `book-of-commandments-1833.md`, `.txt`, `-sparse.txt`, `printer-typos.md` (`python3 tools/make_typo_catalog.py`, run after the three compile scripts), `review-checklist.md` (`python3 tools/make_review_checklist.py`).
 - `transcription-notes.md`: method, judgment calls, audit table. `logs/`: local audit and proofread logs (gitignored, not part of the repo; kept so interrupted batches can resume).
 - `work/`: gitignored scratch (renders).
 

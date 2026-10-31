@@ -34,6 +34,7 @@ The scripts and instructions used to produce the files in this repository. The p
 - `make_typo_catalog.py` (standard library only) builds `../printer-typos.md` from a curated list of forms in the script, finding each in
   `../book-of-commandments-1833.md` with its PDF page, printed page (PDF - 3) and context; it also computes the table of chapters whose
   heading line has no verse number 1. Run it after the combined files are rebuilt: `python3 tools/make_typo_catalog.py`.
+- `make_review_checklist.py` (standard library only) builds `../review-checklist.md` from the page files: every `[illegible]` mark and every `uncertain` comment that names two readings or concerns a numeral, running head or signature mark, grouped by PDF page with chapter and verse, plus a short curated list of judgment calls. Re-run it after editing page files.
 - `check_structure.py` is the mechanical check run after every batch (see its docstring).
 
 ## Not yet ported from the 1830 repo

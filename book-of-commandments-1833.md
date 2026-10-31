@@ -1,3 +1,15 @@
+---
+title: A Book of Commandments, for the Government of the Church of Christ (Zion, 1833)
+author: Joseph Smith Jr. (revelations)
+publisher: W. W. Phelps & Co.
+place: Independence, Jackson County, Mo. (Zion)
+publication_year: 1833
+source_scan: https://www.loc.gov/item/08025600/ (Library of Congress; public-rbc-2015gen25600-2015gen25600.pdf, 166 pages)
+transcription_method: AI-assisted transcription from page images (Claude Sonnet 5.5); one audit and one blind AI proofread of every text page; no full human proofread
+repository: https://github.com/lds-restoration-documents/1833-phelps-zion-book-of-commandments
+version: "2026-10-31+8ee6b8b"
+---
+
 <!-- page 004 -->
 
 COMMANDMENTS,

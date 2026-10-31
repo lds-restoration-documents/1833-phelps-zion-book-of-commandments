@@ -15,6 +15,9 @@ import argparse
 import glob
 import re
 from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from frontmatter import strip_frontmatter  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[1]
 WORN = 'worn-type reading: the letter looks like the printed one; the audits kept it as printed'
@@ -85,7 +88,7 @@ The running head is kept in the page files but not in the compiled text. One pri
 
 
 def load(md):
-    raw = md.read_text(encoding='utf-8')
+    raw = strip_frontmatter(md.read_text(encoding='utf-8'))
     raw = re.sub(r'(?m)^(\d+)\\\.', r'\1.', raw)  # undo the list-marker escape written by compile_markdown.py
     parts = re.split(r'<!-- page (\d+) -->', raw)
     segs, cur = [], 0

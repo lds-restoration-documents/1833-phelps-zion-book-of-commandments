@@ -12,6 +12,7 @@ The Book of Commandments was the first attempt to publish Joseph Smith's revelat
 * [book-of-commandments-1833-sparse.txt](book-of-commandments-1833-sparse.txt): plain text of the work only: the title page (PDF page 4) followed by the chapters (PDF pages 6–163, from Chapter I to the break in Chapter LXV). It leaves out the imprint lines at the foot of the title page (place, publisher and year), the title-page verso, and the covers and endpapers.
 * [book-of-commandments-1833-pages/](book-of-commandments-1833-pages/): one [Markdown](#what-is-markdown) file per page of the scan (`page-001.md` to `page-166.md`), with running heads, chapter headings, verses and signature marks. File numbers are PDF page numbers (printed page number = PDF page − 3 in the text). These are the source of truth; the three files above are generated from them.
 * [printer-typos.md](printer-typos.md): a catalog of the likely printer's slips in the text (37 occurrences, each with its page and context), the irregular verse numbers and chapter headings, and the chapters whose heading has no verse number. It leaves out spellings that were normal or intentional for the period, such as "recompence", "strait" and "sheweth".
+* [review-checklist.md](review-checklist.md): every place that needs a human look against the scan (about 340 doubtful readings and unreadable stretches, grouped by PDF page, with chapter and verse), followed by the judgment calls for the owner.
 * [transcription-notes.md](transcription-notes.md): how the text was produced, the conventions used, what the audits found, and the readings that remain doubtful.
 
 ## What is in the 1833 edition
@@ -48,6 +49,7 @@ python3 tools/compile_markdown.py     # book-of-commandments-1833.md
 python3 tools/make_plaintext.py       # book-of-commandments-1833.txt
 python3 tools/make_sparse.py          # book-of-commandments-1833-sparse.txt
 python3 tools/make_typo_catalog.py    # printer-typos.md
+python3 tools/make_review_checklist.py # review-checklist.md
 python3 tools/check_structure.py      # checks the page files (verse and chapter sequence, markers, italics)
 ```
 The scan itself is not in the repository; to re-render pages for checking, `tools/render_pages.py` needs the PDF and the `pypdfium2` and `pillow` packages. See [tools/README.md](tools/README.md).

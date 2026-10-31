@@ -11,11 +11,51 @@ put at the start of each page's text.
 Usage:  python3 tools/compile_markdown.py [--pages-dir DIR] [--out FILE]
 """
 import argparse
+import datetime
 import glob
 import re
+import subprocess
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
+
+FRONTMATTER = """---
+title: A Book of Commandments, for the Government of the Church of Christ (Zion, 1833)
+author: Joseph Smith Jr. (revelations)
+publisher: W. W. Phelps & Co.
+place: Independence, Jackson County, Mo. (Zion)
+publication_year: 1833
+source_scan: https://www.loc.gov/item/08025600/ (Library of Congress; public-rbc-2015gen25600-2015gen25600.pdf, 166 pages)
+transcription_method: AI-assisted transcription from page images (Claude Sonnet 5.5); one audit and one blind AI proofread of every text page; no full human proofread
+repository: https://github.com/lds-restoration-documents/1833-phelps-zion-book-of-commandments
+version: "{version}"
+---
+
+"""
+
+
+def build_version(pages_dir):
+    """Latest release tag, build date and the short hash of the last commit that touched the page files,
+    e.g. 'v1.0.0 (2026-10-31, 88a940d)'. '+modified' follows the tag when the page files differ from the
+    tagged release; '+dirty' is added to the hash for uncommitted page edits.
+    Without any tag: '2026-10-31+88a940d'."""
+    def git(*a):
+        return subprocess.run(['git', '-C', str(ROOT), *a], capture_output=True, text=True, check=True).stdout.strip()
+    today = datetime.date.today().isoformat()
+    try:
+        h = git('log', '-1', '--format=%h', '--', str(pages_dir)) or 'uncommitted'
+        dirty = bool(git('status', '--porcelain', '--', str(pages_dir)))
+        if dirty:
+            h += '+dirty'
+        try:
+            tag = git('describe', '--tags', '--abbrev=0')
+        except subprocess.CalledProcessError:
+            return f'{today}+{h}'
+        if dirty or git('diff', '--name-only', tag, '--', str(pages_dir)):
+            tag += '+modified'
+        return f'{tag} ({today}, {h})'
+    except (OSError, subprocess.CalledProcessError):
+        return f'{today}+unknown'
 
 
 def clean_page(t):
@@ -75,6 +115,7 @@ def main():
 
     files = sorted(glob.glob(str(Path(args.pages_dir) / 'page-*.md')))
     text, joined = compile_pages(files)
+    text = FRONTMATTER.format(version=build_version(args.pages_dir)) + text
     Path(args.out).write_text(text, encoding='utf-8')
     print(f'{len(files)} pages, {joined} joins, {len(text.split())} words -> {args.out}')
 
