@@ -19,6 +19,10 @@ import sys
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from frontmatter import strip_frontmatter  # noqa: E402
 
+HEADER = ('# A Book of Commandments, for the Government of the Church of Christ (Zion, 1833) '
+          '(sparse, AI draft, no full human proofread) - '
+          'https://github.com/lds-restoration-documents/1833-phelps-zion-book-of-commandments\n\n')
+
 ROOT = Path(__file__).resolve().parents[1]
 
 # Inclusive PDF page ranges kept (printed page = PDF page - 3): the title page (PDF 4) and the text from
@@ -82,6 +86,7 @@ def main():
             dropped.append((pg, p))
     text = '\n\n'.join(q for q in (plain(p) for p in kept) if q) + '\n'
     text = re.sub(r'\n{3,}', '\n\n', text)
+    text = HEADER + text
     Path(args.out).write_text(text, encoding='utf-8')
     print(f'kept {len(kept)} paragraphs, dropped {len(dropped)}, {len(text.split())} words -> {args.out}')
     if args.verbose:
