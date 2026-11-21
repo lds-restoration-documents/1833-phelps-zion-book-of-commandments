@@ -3,4 +3,5 @@ __pycache__/
 *.pdf
 .venv/
 logs/*
-logs/**/*.log.DS_Store
+logs/**/*.log
+.DS_Store
